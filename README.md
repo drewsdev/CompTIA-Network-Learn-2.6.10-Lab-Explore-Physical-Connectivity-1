@@ -108,20 +108,21 @@ Complete this lab as follows:
       * Drag the other RJ45 Connector to the port 3 on the Cisco switch.  
       The link and network activity lights for port 3 indicate an active connection. The patch cable in the Network Closet was the problem.  
 14. From Office1, test the network connection to the following devices.  
-  a. From the top left, select Floor 1 Overview.  
-  b. Under Office 1, select Office1.  
-  c. Right-click Start and then select Terminal (Admin).  
-  d. Ping the following devices:  
-      * Office1: 192.168.0.30  
-      * Exec: 192.168.0.34  
-      * ISP: 163.128.1.1  
-      You are now able to ping all devices verifying local and internet connectivity.          
-  e. (Optional)  
-      * Look at the Network icon in the notification area.  
-      * The icon indicates a normal network connection.  
-      * Right-click Start and then select Settings.  
-      * Select Network & internet.  
-      * Under Status, you see that this computer is now connected to the internet.  
+    a. From the top left, select Floor 1 Overview.  
+    b. Under Office 1, select Office1.  
+    c. Right-click Start and then select Terminal (Admin).  
+    d. Ping the following devices:  
+       * Office1: 192.168.0.30  
+       * Exec: 192.168.0.34  
+       * ISP: 163.128.1.1  
+         You are now able to ping all devices verifying local and internet connectivity.  
+    e. (Optional)  
+       * Look at the Network icon in the notification area.  
+       * The icon indicates a normal network connection.  
+       * Right-click Start and then select Settings.  
+       * Select Network & internet.  
+       * Under Status, you see that this computer is now connected to the internet.  
+       * Close the Settings app.
       * Close the Settings app.  
 15. Score the lab.  
   a. From the top right, select Questions.  
