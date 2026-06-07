@@ -15,7 +15,8 @@ Complete this lab as follows:
   c. From the top right, select Questions.  
   d. Answer Question 4.  
   e. Minimize the Lab Questions window.  
-3. From the ITAdmin workstation, ping each of the following computers using the IP addresses shown below:  
+3. From the ITAdmin workstation, ping each of the following computers using the IP addresses shown below:
+
 | Computer Name                         | IP Address   |
 |---------------------------------------|--------------|
 | Office1                               | 192.168.0.30 |
