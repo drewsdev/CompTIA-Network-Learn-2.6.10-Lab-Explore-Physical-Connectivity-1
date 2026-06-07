@@ -71,11 +71,11 @@ Complete this lab as follows:
       * Right-click Start and then select Terminal (Admin).  
       * Type ping 192.168.0.10 (the CorpServer) and press Enter.  
       * Type ping 163.128.1.1 (the ISP) and press Enter.  
-      Both pings are successful.  
-c. Right-click Start and then select Settings.  
-d. Select Network & internet.  
-e. Under the Network & internet heading, you see that this computer is now connected to the internet.  
-f. Close the Settings app.  
+      Both pings are successful.  /n
+  c. Right-click Start and then select Settings.  
+  d. Select Network & internet.  
+  e. Under the Network & internet heading, you see that this computer is now connected to the internet.  
+  f. Close the Settings app.  
 10. In the Networking Closet, check the link light status for Exec.  
   a. From the top left, select Floor 1 Overview.  
   b. Under Networking Closet, select Hardware.  
