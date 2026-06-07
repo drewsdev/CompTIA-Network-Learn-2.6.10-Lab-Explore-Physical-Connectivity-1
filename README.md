@@ -26,6 +26,7 @@ Complete this lab as follows:
 | CorpNet Router's Internal Interface   | 198.28.56.1  |
 | CorpNet's Router's External Interface | 198.28.56.17 |
 | ISP                                   | 163.128.1.1  |  
+
   a. From the top left, select Floor 1 Overview.  
   b. Under IT Administration, select ITAdmin.  
   c. Right-click Start and then select Terminal (Admin).  
